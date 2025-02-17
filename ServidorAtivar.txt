@@ -1,0 +1,5 @@
+Servidor rodando no server.js na porta 3001
+Para rodar o servidor instalar o node modules (npm install module_name)
+Iniciar o servidor em node server.js
+
+(Tive que tirar pois o git não estava deixando subir pastas)
